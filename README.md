@@ -2,8 +2,6 @@
 
 A Codex skill that delegates antigen work to **local Claude Code**, while Codex keeps ownership of the overall project, integration, and verification.
 
-**中文：** Codex 负责整体项目，Claude 作为了解项目上下文的 antigen 专家。两者使用同一工作目录；每次交接都显式传入目标、历史决策、进度和约束，并把 Claude 的反馈带回 Codex。
-
 ## What it does
 
 - Routes antigen code, feature extraction, model branches, data processing, and Ab–Ag interfaces to Claude.

@@ -1,0 +1,5 @@
+interface:
+  display_name: "Antigen Claude Router"
+  short_description: "Route antigen work to Claude Opus 5 or Sonnet 5.5"
+policy:
+  allow_implicit_invocation: true

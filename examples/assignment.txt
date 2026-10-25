@@ -1,0 +1,1 @@
+Read-only synthetic smoke test. Use no tools and change no files. Briefly state the overall project goal, current phase and your antigen specialist role, then include the exact marker ROUTER_OK. This tests routing and context only, not scientific correctness.
